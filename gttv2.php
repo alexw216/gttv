@@ -1,7 +1,7 @@
 <?php
 //created by alexw216
 //for gttv iptv url proxy rendering
-// 2018/11/2
+// 2018/11/2 V1
 
 error_reporting(E_ALL);
 
